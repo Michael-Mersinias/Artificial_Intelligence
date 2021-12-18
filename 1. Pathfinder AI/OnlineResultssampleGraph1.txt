@@ -1,0 +1,570 @@
+Results for filename:sampleGraph1.txt
+File created: 14/04/2017 03:14:20
+
+Source is:10Node9e
+Destination is:9Node0e
+Number of Streets:167
+
+
+Day 1:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 1 is: 0.105 seconds
+
+
+Day 2:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 2 is: 0.029 seconds
+
+
+Day 3:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 3 is: 0.026000000000000002 seconds
+
+
+Day 4:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 4 is: 0.038 seconds
+
+
+Day 5:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 5 is: 0.022 seconds
+
+
+Day 6:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 6 is: 0.022 seconds
+
+
+Day 7:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 7 is: 0.027 seconds
+
+
+Day 8:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 8 is: 0.027 seconds
+
+
+Day 9:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 9 is: 0.023 seconds
+
+
+Day 10:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 10 is: 0.032 seconds
+
+
+Day 11:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 11 is: 0.021 seconds
+
+
+Day 12:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 12 is: 0.029 seconds
+
+
+Day 13:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 13 is: 0.022 seconds
+
+
+Day 14:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 14 is: 0.031 seconds
+
+
+Day 15:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 15 is: 0.018000000000000002 seconds
+
+
+Day 16:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 16 is: 0.032 seconds
+
+
+Day 17:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 17 is: 0.018000000000000002 seconds
+
+
+Day 18:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 18 is: 0.018000000000000002 seconds
+
+
+Day 19:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 19 is: 0.017 seconds
+
+
+Day 20:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 20 is: 0.022 seconds
+
+
+Day 21:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 21 is: 0.013000000000000001 seconds
+
+
+Day 22:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 22 is: 0.027 seconds
+
+
+Day 23:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 23 is: 0.013000000000000001 seconds
+
+
+Day 24:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 24 is: 0.025 seconds
+
+
+Day 25:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 25 is: 0.017 seconds
+
+
+Day 26:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 26 is: 0.022 seconds
+
+
+Day 27:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 27 is: 0.019 seconds
+
+
+Day 28:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 28 is: 0.025 seconds
+
+
+Day 29:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 29 is: 0.023 seconds
+
+
+Day 30:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 30 is: 0.016 seconds
+
+
+Day 31:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 31 is: 0.018000000000000002 seconds
+
+
+Day 32:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 32 is: 0.02 seconds
+
+
+Day 33:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 33 is: 0.025 seconds
+
+
+Day 34:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 34 is: 0.027 seconds
+
+
+Day 35:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 35 is: 0.031 seconds
+
+
+Day 36:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 36 is: 0.025 seconds
+
+
+Day 37:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 37 is: 0.039 seconds
+
+
+Day 38:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 38 is: 0.036000000000000004 seconds
+
+
+Day 39:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 39 is: 0.024 seconds
+
+
+Day 40:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 40 is: 0.025 seconds
+
+
+Day 41:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 41 is: 0.025 seconds
+
+
+Day 42:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 42 is: 0.028 seconds
+
+
+Day 43:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 43 is: 0.025 seconds
+
+
+Day 44:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 44 is: 0.033 seconds
+
+
+Day 45:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 45 is: 0.024 seconds
+
+
+Day 46:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 46 is: 0.018000000000000002 seconds
+
+
+Day 47:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 47 is: 0.041 seconds
+
+
+Day 48:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 48 is: 0.024 seconds
+
+
+Day 49:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 49 is: 0.029 seconds
+
+
+Day 50:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 50 is: 0.025 seconds
+
+
+Day 51:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 51 is: 0.024 seconds
+
+
+Day 52:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 52 is: 0.024 seconds
+
+
+Day 53:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 53 is: 0.029 seconds
+
+
+Day 54:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 54 is: 0.025 seconds
+
+
+Day 55:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 55 is: 0.035 seconds
+
+
+Day 56:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 56 is: 0.042 seconds
+
+
+Day 57:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 57 is: 0.02 seconds
+
+
+Day 58:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 58 is: 0.027 seconds
+
+
+Day 59:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 59 is: 0.024 seconds
+
+
+Day 60:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 60 is: 0.025 seconds
+
+
+Day 61:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 61 is: 0.029 seconds
+
+
+Day 62:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 62 is: 0.024 seconds
+
+
+Day 63:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 63 is: 0.026000000000000002 seconds
+
+
+Day 64:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 64 is: 0.028 seconds
+
+
+Day 65:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 65 is: 0.024 seconds
+
+
+Day 66:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 66 is: 0.028 seconds
+
+
+Day 67:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 67 is: 0.023 seconds
+
+
+Day 68:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 68 is: 0.018000000000000002 seconds
+
+
+Day 69:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 69 is: 0.027 seconds
+
+
+Day 70:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 70 is: 0.022 seconds
+
+
+Day 71:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 71 is: 0.033 seconds
+
+
+Day 72:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 72 is: 0.021 seconds
+
+
+Day 73:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 73 is: 0.024 seconds
+
+
+Day 74:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 74 is: 0.035 seconds
+
+
+Day 75:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 75 is: 0.026000000000000002 seconds
+
+
+Day 76:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 76 is: 0.03 seconds
+
+
+Day 77:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 77 is: 0.016 seconds
+
+
+Day 78:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 78 is: 0.036000000000000004 seconds
+
+
+Day 79:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 79 is: 0.023 seconds
+
+
+Day 80:
+LRTA* - Learning Real-Time A*
+Path followed(with actual cost):Path followed(with actual cost):Road24e with cost:11.0, Road155e with cost:47.79, Road143e with cost:32.5, Road115e with cost:33.0
+Total cost for LRTA* is:124.28999999999999
+Execution time of LRTA* for day 80 is: 0.03 seconds
+
+
+The Average cost per day, for 1 month (80 days) is: 124.29000000000015
+The Average time needed per day, for 1 month(80 days) is: 0.02648749999999999 seconds

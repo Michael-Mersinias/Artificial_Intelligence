@@ -1,0 +1,1777 @@
+Results for filename:sampleGraph1.txt
+File created: 14/04/2017 03:09:29
+
+Source is:10Node9e
+Destination is:9Node0e
+Number of Streets:167
+
+
+Day 1:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 0 is: 0.028 seconds
+Prediciton Cost of UCS of day 0 is: 113.1
+Actual Cost of UCS of day 0 is: 119.6
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 113.1
+Total actual cost (UCS) until this day is: 119.6
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 1 is: 0.199 seconds
+Prediciton Cost of IDA* for day 1 is: 113.1
+Actual Cost of IDA* for day 1 is: 119.6
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 113.1
+Total actual cost (IDA*) until this day is: 119.6
+
+
+Day 2:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 1 is: 0.015 seconds
+Prediciton Cost of UCS of day 1 is: 103.75000000000001
+Actual Cost of UCS of day 1 is: 106.35000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:20.7
+Total prediction cost (UCS) until this day is: 216.85000000000002
+Total actual cost (UCS) until this day is: 225.95
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 2 is: 0.201 seconds
+Prediciton Cost of IDA* for day 2 is: 103.75000000000001
+Actual Cost of IDA* for day 2 is: 106.35000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:20.7
+Total prediction cost (IDA*) until this day is: 216.85000000000002
+Total actual cost (IDA*) until this day is: 225.95
+
+
+Day 3:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 2 is: 0.025 seconds
+Prediciton Cost of UCS of day 2 is: 108.4
+Actual Cost of UCS of day 2 is: 104.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 325.25
+Total actual cost (UCS) until this day is: 330.55
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 3 is: 0.092 seconds
+Prediciton Cost of IDA* for day 3 is: 108.4
+Actual Cost of IDA* for day 3 is: 104.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 325.25
+Total actual cost (IDA*) until this day is: 330.55
+
+
+Day 4:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 3 is: 0.002 seconds
+Prediciton Cost of UCS of day 3 is: 129.65
+Actual Cost of UCS of day 3 is: 152.75
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:47.5, Road121e with estimated cost:9.0, Road114e with estimated cost:59.4
+Total prediction cost (UCS) until this day is: 454.9
+Total actual cost (UCS) until this day is: 483.3
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:37
+Execution time of IDA* for day 4 is: 0.056 seconds
+Prediciton Cost of IDA* for day 4 is: 129.65
+Actual Cost of IDA* for day 4 is: 152.75
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:47.5, Road121e with estimated cost:9.0, Road114e with estimated cost:59.4
+Total prediction cost (IDA*) until this day is: 454.9
+Total actual cost (IDA*) until this day is: 483.3
+
+
+Day 5:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 4 is: 0.008 seconds
+Prediciton Cost of UCS of day 4 is: 113.75
+Actual Cost of UCS of day 4 is: 124.25
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road142e with estimated cost:27.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 568.65
+Total actual cost (UCS) until this day is: 607.55
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 5 is: 0.061 seconds
+Prediciton Cost of IDA* for day 5 is: 113.75
+Actual Cost of IDA* for day 5 is: 124.25
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road142e with estimated cost:27.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 568.65
+Total actual cost (IDA*) until this day is: 607.55
+
+
+Day 6:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 5 is: 0.013000000000000001 seconds
+Prediciton Cost of UCS of day 5 is: 116.4
+Actual Cost of UCS of day 5 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 685.05
+Total actual cost (UCS) until this day is: 726.55
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 6 is: 0.044 seconds
+Prediciton Cost of IDA* for day 6 is: 116.4
+Actual Cost of IDA* for day 6 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 685.05
+Total actual cost (IDA*) until this day is: 726.55
+
+
+Day 7:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 6 is: 0.002 seconds
+Prediciton Cost of UCS of day 6 is: 105.9
+Actual Cost of UCS of day 6 is: 103.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 790.9499999999999
+Total actual cost (UCS) until this day is: 830.15
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 7 is: 0.062 seconds
+Prediciton Cost of IDA* for day 7 is: 105.9
+Actual Cost of IDA* for day 7 is: 103.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 790.9499999999999
+Total actual cost (IDA*) until this day is: 830.15
+
+
+Day 8:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 7 is: 0.006 seconds
+Prediciton Cost of UCS of day 7 is: 110.2
+Actual Cost of UCS of day 7 is: 120.7
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 901.15
+Total actual cost (UCS) until this day is: 950.85
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 8 is: 0.06 seconds
+Prediciton Cost of IDA* for day 8 is: 110.2
+Actual Cost of IDA* for day 8 is: 120.7
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 901.15
+Total actual cost (IDA*) until this day is: 950.85
+
+
+Day 9:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 8 is: 0.002 seconds
+Prediciton Cost of UCS of day 8 is: 122.15
+Actual Cost of UCS of day 8 is: 122.15
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 1023.3
+Total actual cost (UCS) until this day is: 1073.0
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 9 is: 0.044 seconds
+Prediciton Cost of IDA* for day 9 is: 122.15
+Actual Cost of IDA* for day 9 is: 122.15
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 1023.3
+Total actual cost (IDA*) until this day is: 1073.0
+
+
+Day 10:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 9 is: 0.003 seconds
+Prediciton Cost of UCS of day 9 is: 117.1
+Actual Cost of UCS of day 9 is: 126.4
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:28.0, Road48e with estimated cost:7.5, Road63e with estimated cost:39.6, Road161e with estimated cost:27.0
+Total prediction cost (UCS) until this day is: 1140.3999999999999
+Total actual cost (UCS) until this day is: 1199.4
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:37
+Execution time of IDA* for day 10 is: 0.063 seconds
+Prediciton Cost of IDA* for day 10 is: 117.1
+Actual Cost of IDA* for day 10 is: 126.4
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:28.0, Road48e with estimated cost:7.5, Road63e with estimated cost:39.6, Road161e with estimated cost:27.0
+Total prediction cost (IDA*) until this day is: 1140.3999999999999
+Total actual cost (IDA*) until this day is: 1199.4
+
+
+Day 11:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 10 is: 0.001 seconds
+Prediciton Cost of UCS of day 10 is: 109.85000000000001
+Actual Cost of UCS of day 10 is: 109.85000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 1250.2499999999998
+Total actual cost (UCS) until this day is: 1309.25
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 11 is: 0.041 seconds
+Prediciton Cost of IDA* for day 11 is: 109.85000000000001
+Actual Cost of IDA* for day 11 is: 109.85000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 1250.2499999999998
+Total actual cost (IDA*) until this day is: 1309.25
+
+
+Day 12:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 11 is: 0.001 seconds
+Prediciton Cost of UCS of day 11 is: 119.15
+Actual Cost of UCS of day 11 is: 119.15
+Recommended Route: Road24e with estimated cost:13.75, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 1369.3999999999999
+Total actual cost (UCS) until this day is: 1428.4
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 12 is: 0.045 seconds
+Prediciton Cost of IDA* for day 12 is: 119.15
+Actual Cost of IDA* for day 12 is: 119.15
+Recommended Route: Road24e with estimated cost:13.75, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 1369.3999999999999
+Total actual cost (IDA*) until this day is: 1428.4
+
+
+Day 13:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 12 is: 0.006 seconds
+Prediciton Cost of UCS of day 12 is: 107.35000000000001
+Actual Cost of UCS of day 12 is: 120.25
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 1476.7499999999998
+Total actual cost (UCS) until this day is: 1548.65
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 13 is: 0.045 seconds
+Prediciton Cost of IDA* for day 13 is: 107.35000000000001
+Actual Cost of IDA* for day 13 is: 120.25
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 1476.7499999999998
+Total actual cost (IDA*) until this day is: 1548.65
+
+
+Day 14:
+Uniform Cost Search
+Number of nodes expanded:37
+Number of nodes in fringe:7
+Execution time of UCS for day 13 is: 0.006 seconds
+Prediciton Cost of UCS of day 13 is: 103.60000000000001
+Actual Cost of UCS of day 13 is: 111.65
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:20.7
+Total prediction cost (UCS) until this day is: 1580.3499999999997
+Total actual cost (UCS) until this day is: 1660.3000000000002
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 14 is: 0.056 seconds
+Prediciton Cost of IDA* for day 14 is: 103.60000000000001
+Actual Cost of IDA* for day 14 is: 111.65
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:20.7
+Total prediction cost (IDA*) until this day is: 1580.3499999999997
+Total actual cost (IDA*) until this day is: 1660.3000000000002
+
+
+Day 15:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 14 is: 0.001 seconds
+Prediciton Cost of UCS of day 14 is: 103.30000000000001
+Actual Cost of UCS of day 14 is: 116.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 1683.6499999999996
+Total actual cost (UCS) until this day is: 1776.9
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 15 is: 0.076 seconds
+Prediciton Cost of IDA* for day 15 is: 103.30000000000001
+Actual Cost of IDA* for day 15 is: 116.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 1683.6499999999996
+Total actual cost (IDA*) until this day is: 1776.9
+
+
+Day 16:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 15 is: 0.012 seconds
+Prediciton Cost of UCS of day 15 is: 109.7
+Actual Cost of UCS of day 15 is: 125.7
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 1793.3499999999997
+Total actual cost (UCS) until this day is: 1902.6000000000001
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 16 is: 0.082 seconds
+Prediciton Cost of IDA* for day 16 is: 109.7
+Actual Cost of IDA* for day 16 is: 125.7
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 1793.3499999999997
+Total actual cost (IDA*) until this day is: 1902.6000000000001
+
+
+Day 17:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 16 is: 0.005 seconds
+Prediciton Cost of UCS of day 16 is: 109.8
+Actual Cost of UCS of day 16 is: 116.75
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road142e with estimated cost:27.0, Road146e with estimated cost:10.8, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 1903.1499999999996
+Total actual cost (UCS) until this day is: 2019.3500000000001
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 17 is: 0.063 seconds
+Prediciton Cost of IDA* for day 17 is: 109.8
+Actual Cost of IDA* for day 17 is: 116.75
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road142e with estimated cost:27.0, Road146e with estimated cost:10.8, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 1903.1499999999996
+Total actual cost (IDA*) until this day is: 2019.3500000000001
+
+
+Day 18:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 17 is: 0.007 seconds
+Prediciton Cost of UCS of day 17 is: 109.8
+Actual Cost of UCS of day 17 is: 122.3
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road142e with estimated cost:27.0, Road146e with estimated cost:10.8, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2012.9499999999996
+Total actual cost (UCS) until this day is: 2141.65
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 18 is: 0.073 seconds
+Prediciton Cost of IDA* for day 18 is: 109.8
+Actual Cost of IDA* for day 18 is: 122.3
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road142e with estimated cost:27.0, Road146e with estimated cost:10.8, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2012.9499999999996
+Total actual cost (IDA*) until this day is: 2141.65
+
+
+Day 19:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 18 is: 0.005 seconds
+Prediciton Cost of UCS of day 18 is: 115.45
+Actual Cost of UCS of day 18 is: 126.9
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 2128.3999999999996
+Total actual cost (UCS) until this day is: 2268.55
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 19 is: 0.059000000000000004 seconds
+Prediciton Cost of IDA* for day 19 is: 115.45
+Actual Cost of IDA* for day 19 is: 126.9
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 2128.3999999999996
+Total actual cost (IDA*) until this day is: 2268.55
+
+
+Day 20:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 19 is: 0.001 seconds
+Prediciton Cost of UCS of day 19 is: 102.2
+Actual Cost of UCS of day 19 is: 124.60000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2230.5999999999995
+Total actual cost (UCS) until this day is: 2393.15
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:46
+Execution time of IDA* for day 20 is: 0.10400000000000001 seconds
+Prediciton Cost of IDA* for day 20 is: 102.2
+Actual Cost of IDA* for day 20 is: 124.60000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2230.5999999999995
+Total actual cost (IDA*) until this day is: 2393.15
+
+
+Day 21:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 20 is: 0.002 seconds
+Prediciton Cost of UCS of day 20 is: 119.0
+Actual Cost of UCS of day 20 is: 116.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2349.5999999999995
+Total actual cost (UCS) until this day is: 2509.55
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 21 is: 0.038 seconds
+Prediciton Cost of IDA* for day 21 is: 119.0
+Actual Cost of IDA* for day 21 is: 116.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2349.5999999999995
+Total actual cost (IDA*) until this day is: 2509.55
+
+
+Day 22:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 21 is: 0.001 seconds
+Prediciton Cost of UCS of day 21 is: 107.85000000000001
+Actual Cost of UCS of day 21 is: 123.9
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:16.25, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2457.4499999999994
+Total actual cost (UCS) until this day is: 2633.4500000000003
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 22 is: 0.07 seconds
+Prediciton Cost of IDA* for day 22 is: 107.85000000000001
+Actual Cost of IDA* for day 22 is: 123.9
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:16.25, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2457.4499999999994
+Total actual cost (IDA*) until this day is: 2633.4500000000003
+
+
+Day 23:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 22 is: 0.002 seconds
+Prediciton Cost of UCS of day 22 is: 110.5
+Actual Cost of UCS of day 22 is: 110.5
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2567.9499999999994
+Total actual cost (UCS) until this day is: 2743.9500000000003
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 23 is: 0.06 seconds
+Prediciton Cost of IDA* for day 23 is: 110.5
+Actual Cost of IDA* for day 23 is: 110.5
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2567.9499999999994
+Total actual cost (IDA*) until this day is: 2743.9500000000003
+
+
+Day 24:
+Uniform Cost Search
+Number of nodes expanded:37
+Number of nodes in fringe:7
+Execution time of UCS for day 23 is: 0.001 seconds
+Prediciton Cost of UCS of day 23 is: 105.9
+Actual Cost of UCS of day 23 is: 115.50000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2673.8499999999995
+Total actual cost (UCS) until this day is: 2859.4500000000003
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 24 is: 0.065 seconds
+Prediciton Cost of IDA* for day 24 is: 105.9
+Actual Cost of IDA* for day 24 is: 115.50000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2673.8499999999995
+Total actual cost (IDA*) until this day is: 2859.4500000000003
+
+
+Day 25:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 24 is: 0.004 seconds
+Prediciton Cost of UCS of day 24 is: 107.2
+Actual Cost of UCS of day 24 is: 111.0
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2781.0499999999993
+Total actual cost (UCS) until this day is: 2970.4500000000003
+
+Iterative Deepening A*
+Number of nodes expanded:6
+Number of nodes in fringe:41
+Execution time of IDA* for day 25 is: 0.078 seconds
+Prediciton Cost of IDA* for day 25 is: 107.2
+Actual Cost of IDA* for day 25 is: 111.0
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2781.0499999999993
+Total actual cost (IDA*) until this day is: 2970.4500000000003
+
+
+Day 26:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 25 is: 0.001 seconds
+Prediciton Cost of UCS of day 25 is: 104.60000000000001
+Actual Cost of UCS of day 25 is: 111.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 2885.649999999999
+Total actual cost (UCS) until this day is: 3081.8500000000004
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 26 is: 0.081 seconds
+Prediciton Cost of IDA* for day 26 is: 104.60000000000001
+Actual Cost of IDA* for day 26 is: 111.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 2885.649999999999
+Total actual cost (IDA*) until this day is: 3081.8500000000004
+
+
+Day 27:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 26 is: 0.002 seconds
+Prediciton Cost of UCS of day 26 is: 115.30000000000001
+Actual Cost of UCS of day 26 is: 119.15
+Recommended Route: Road24e with estimated cost:9.9, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3000.9499999999994
+Total actual cost (UCS) until this day is: 3201.0000000000005
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 27 is: 0.05 seconds
+Prediciton Cost of IDA* for day 27 is: 115.30000000000001
+Actual Cost of IDA* for day 27 is: 119.15
+Recommended Route: Road24e with estimated cost:9.9, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3000.9499999999994
+Total actual cost (IDA*) until this day is: 3201.0000000000005
+
+
+Day 28:
+Uniform Cost Search
+Number of nodes expanded:37
+Number of nodes in fringe:7
+Execution time of UCS for day 27 is: 0.001 seconds
+Prediciton Cost of UCS of day 27 is: 107.10000000000001
+Actual Cost of UCS of day 27 is: 107.10000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3108.0499999999993
+Total actual cost (UCS) until this day is: 3308.1000000000004
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 28 is: 0.056 seconds
+Prediciton Cost of IDA* for day 28 is: 107.10000000000001
+Actual Cost of IDA* for day 28 is: 107.10000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3108.0499999999993
+Total actual cost (IDA*) until this day is: 3308.1000000000004
+
+
+Day 29:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 28 is: 0.001 seconds
+Prediciton Cost of UCS of day 28 is: 110.2
+Actual Cost of UCS of day 28 is: 116.5
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3218.249999999999
+Total actual cost (UCS) until this day is: 3424.6000000000004
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 29 is: 0.079 seconds
+Prediciton Cost of IDA* for day 29 is: 110.2
+Actual Cost of IDA* for day 29 is: 116.5
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3218.249999999999
+Total actual cost (IDA*) until this day is: 3424.6000000000004
+
+
+Day 30:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 29 is: 0.004 seconds
+Prediciton Cost of UCS of day 29 is: 107.10000000000001
+Actual Cost of UCS of day 29 is: 116.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3325.349999999999
+Total actual cost (UCS) until this day is: 3540.8
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 30 is: 0.061 seconds
+Prediciton Cost of IDA* for day 30 is: 107.10000000000001
+Actual Cost of IDA* for day 30 is: 116.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3325.349999999999
+Total actual cost (IDA*) until this day is: 3540.8
+
+
+Day 31:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 30 is: 0.004 seconds
+Prediciton Cost of UCS of day 30 is: 111.0
+Actual Cost of UCS of day 30 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3436.349999999999
+Total actual cost (UCS) until this day is: 3649.2000000000003
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 31 is: 0.079 seconds
+Prediciton Cost of IDA* for day 31 is: 111.0
+Actual Cost of IDA* for day 31 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3436.349999999999
+Total actual cost (IDA*) until this day is: 3649.2000000000003
+
+
+Day 32:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 31 is: 0.005 seconds
+Prediciton Cost of UCS of day 31 is: 119.75
+Actual Cost of UCS of day 31 is: 119.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 3556.099999999999
+Total actual cost (UCS) until this day is: 3768.4
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 32 is: 0.07100000000000001 seconds
+Prediciton Cost of IDA* for day 32 is: 119.75
+Actual Cost of IDA* for day 32 is: 119.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 3556.099999999999
+Total actual cost (IDA*) until this day is: 3768.4
+
+
+Day 33:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 32 is: 0.007 seconds
+Prediciton Cost of UCS of day 32 is: 119.0
+Actual Cost of UCS of day 32 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3675.099999999999
+Total actual cost (UCS) until this day is: 3887.4
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 33 is: 0.041 seconds
+Prediciton Cost of IDA* for day 33 is: 119.0
+Actual Cost of IDA* for day 33 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3675.099999999999
+Total actual cost (IDA*) until this day is: 3887.4
+
+
+Day 34:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 33 is: 0.006 seconds
+Prediciton Cost of UCS of day 33 is: 110.5
+Actual Cost of UCS of day 33 is: 110.5
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3785.599999999999
+Total actual cost (UCS) until this day is: 3997.9
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 34 is: 0.044 seconds
+Prediciton Cost of IDA* for day 34 is: 110.5
+Actual Cost of IDA* for day 34 is: 110.5
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3785.599999999999
+Total actual cost (IDA*) until this day is: 3997.9
+
+
+Day 35:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 34 is: 0.004 seconds
+Prediciton Cost of UCS of day 34 is: 111.0
+Actual Cost of UCS of day 34 is: 113.7
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 3896.599999999999
+Total actual cost (UCS) until this day is: 4111.6
+
+Iterative Deepening A*
+Number of nodes expanded:6
+Number of nodes in fringe:41
+Execution time of IDA* for day 35 is: 0.075 seconds
+Prediciton Cost of IDA* for day 35 is: 111.0
+Actual Cost of IDA* for day 35 is: 113.7
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 3896.599999999999
+Total actual cost (IDA*) until this day is: 4111.6
+
+
+Day 36:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 35 is: 0.001 seconds
+Prediciton Cost of UCS of day 35 is: 116.4
+Actual Cost of UCS of day 35 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4012.999999999999
+Total actual cost (UCS) until this day is: 4230.6
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 36 is: 0.052000000000000005 seconds
+Prediciton Cost of IDA* for day 36 is: 116.4
+Actual Cost of IDA* for day 36 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4012.999999999999
+Total actual cost (IDA*) until this day is: 4230.6
+
+
+Day 37:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 36 is: 0.001 seconds
+Prediciton Cost of UCS of day 36 is: 110.2
+Actual Cost of UCS of day 36 is: 115.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4123.199999999999
+Total actual cost (UCS) until this day is: 4346.0
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 37 is: 0.109 seconds
+Prediciton Cost of IDA* for day 37 is: 110.2
+Actual Cost of IDA* for day 37 is: 115.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:30.0, Road146e with estimated cost:12.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4123.199999999999
+Total actual cost (IDA*) until this day is: 4346.0
+
+
+Day 38:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 37 is: 0.006 seconds
+Prediciton Cost of UCS of day 37 is: 103.5
+Actual Cost of UCS of day 37 is: 103.50000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4226.699999999999
+Total actual cost (UCS) until this day is: 4449.5
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:46
+Execution time of IDA* for day 38 is: 0.092 seconds
+Prediciton Cost of IDA* for day 38 is: 103.5
+Actual Cost of IDA* for day 38 is: 103.50000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4226.699999999999
+Total actual cost (IDA*) until this day is: 4449.5
+
+
+Day 39:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 38 is: 0.002 seconds
+Prediciton Cost of UCS of day 38 is: 109.7
+Actual Cost of UCS of day 38 is: 116.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4336.399999999999
+Total actual cost (UCS) until this day is: 4565.7
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 39 is: 0.078 seconds
+Prediciton Cost of IDA* for day 39 is: 109.7
+Actual Cost of IDA* for day 39 is: 116.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4336.399999999999
+Total actual cost (IDA*) until this day is: 4565.7
+
+
+Day 40:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 39 is: 0.006 seconds
+Prediciton Cost of UCS of day 39 is: 116.4
+Actual Cost of UCS of day 39 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4452.799999999998
+Total actual cost (UCS) until this day is: 4684.7
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 40 is: 0.05 seconds
+Prediciton Cost of IDA* for day 40 is: 116.4
+Actual Cost of IDA* for day 40 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4452.799999999998
+Total actual cost (IDA*) until this day is: 4684.7
+
+
+Day 41:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 40 is: 0.001 seconds
+Prediciton Cost of UCS of day 40 is: 109.35000000000001
+Actual Cost of UCS of day 40 is: 109.35
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:16.25, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:20.7
+Total prediction cost (UCS) until this day is: 4562.149999999999
+Total actual cost (UCS) until this day is: 4794.05
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 41 is: 0.092 seconds
+Prediciton Cost of IDA* for day 41 is: 109.35000000000001
+Actual Cost of IDA* for day 41 is: 109.35
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:16.25, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:20.7
+Total prediction cost (IDA*) until this day is: 4562.149999999999
+Total actual cost (IDA*) until this day is: 4794.05
+
+
+Day 42:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 41 is: 0.006 seconds
+Prediciton Cost of UCS of day 41 is: 115.85
+Actual Cost of UCS of day 41 is: 122.35
+Recommended Route: Road24e with estimated cost:13.75, Road155e with estimated cost:53.1, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4677.999999999999
+Total actual cost (UCS) until this day is: 4916.400000000001
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 42 is: 0.053 seconds
+Prediciton Cost of IDA* for day 42 is: 115.85
+Actual Cost of IDA* for day 42 is: 122.35
+Recommended Route: Road24e with estimated cost:13.75, Road155e with estimated cost:53.1, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4677.999999999999
+Total actual cost (IDA*) until this day is: 4916.400000000001
+
+
+Day 43:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 42 is: 0.001 seconds
+Prediciton Cost of UCS of day 42 is: 114.25
+Actual Cost of UCS of day 42 is: 120.75
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:16.25, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4792.249999999999
+Total actual cost (UCS) until this day is: 5037.150000000001
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 43 is: 0.055 seconds
+Prediciton Cost of IDA* for day 43 is: 114.25
+Actual Cost of IDA* for day 43 is: 120.75
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:16.25, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4792.249999999999
+Total actual cost (IDA*) until this day is: 5037.150000000001
+
+
+Day 44:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 43 is: 0.004 seconds
+Prediciton Cost of UCS of day 43 is: 110.5
+Actual Cost of UCS of day 43 is: 108.2
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 4902.749999999999
+Total actual cost (UCS) until this day is: 5145.35
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 44 is: 0.03 seconds
+Prediciton Cost of IDA* for day 44 is: 110.5
+Actual Cost of IDA* for day 44 is: 108.2
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 4902.749999999999
+Total actual cost (IDA*) until this day is: 5145.35
+
+
+Day 45:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 44 is: 0.007 seconds
+Prediciton Cost of UCS of day 44 is: 108.4
+Actual Cost of UCS of day 44 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5011.149999999999
+Total actual cost (UCS) until this day is: 5253.75
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 45 is: 0.052000000000000005 seconds
+Prediciton Cost of IDA* for day 45 is: 108.4
+Actual Cost of IDA* for day 45 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5011.149999999999
+Total actual cost (IDA*) until this day is: 5253.75
+
+
+Day 46:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 45 is: 0.007 seconds
+Prediciton Cost of UCS of day 45 is: 104.60000000000001
+Actual Cost of UCS of day 45 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5115.749999999999
+Total actual cost (UCS) until this day is: 5362.15
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 46 is: 0.048 seconds
+Prediciton Cost of IDA* for day 46 is: 104.60000000000001
+Actual Cost of IDA* for day 46 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5115.749999999999
+Total actual cost (IDA*) until this day is: 5362.15
+
+
+Day 47:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 46 is: 0.004 seconds
+Prediciton Cost of UCS of day 46 is: 111.0
+Actual Cost of UCS of day 46 is: 126.9
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5226.749999999999
+Total actual cost (UCS) until this day is: 5489.049999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 47 is: 0.055 seconds
+Prediciton Cost of IDA* for day 47 is: 111.0
+Actual Cost of IDA* for day 47 is: 126.9
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5226.749999999999
+Total actual cost (IDA*) until this day is: 5489.049999999999
+
+
+Day 48:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 47 is: 0.001 seconds
+Prediciton Cost of UCS of day 47 is: 108.6
+Actual Cost of UCS of day 47 is: 106.00000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5335.349999999999
+Total actual cost (UCS) until this day is: 5595.049999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:46
+Execution time of IDA* for day 48 is: 0.084 seconds
+Prediciton Cost of IDA* for day 48 is: 108.6
+Actual Cost of IDA* for day 48 is: 106.00000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5335.349999999999
+Total actual cost (IDA*) until this day is: 5595.049999999999
+
+
+Day 49:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 48 is: 0.001 seconds
+Prediciton Cost of UCS of day 48 is: 120.5
+Actual Cost of UCS of day 48 is: 107.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:47.5, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5455.849999999999
+Total actual cost (UCS) until this day is: 5702.249999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 49 is: 0.05 seconds
+Prediciton Cost of IDA* for day 49 is: 120.5
+Actual Cost of IDA* for day 49 is: 107.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:47.5, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5455.849999999999
+Total actual cost (IDA*) until this day is: 5702.249999999999
+
+
+Day 50:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 49 is: 0.001 seconds
+Prediciton Cost of UCS of day 49 is: 107.10000000000001
+Actual Cost of UCS of day 49 is: 119.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5562.95
+Total actual cost (UCS) until this day is: 5821.449999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 50 is: 0.035 seconds
+Prediciton Cost of IDA* for day 50 is: 107.10000000000001
+Actual Cost of IDA* for day 50 is: 119.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5562.95
+Total actual cost (IDA*) until this day is: 5821.449999999999
+
+
+Day 51:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 50 is: 0.001 seconds
+Prediciton Cost of UCS of day 50 is: 119.0
+Actual Cost of UCS of day 50 is: 116.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5681.95
+Total actual cost (UCS) until this day is: 5937.8499999999985
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 51 is: 0.033 seconds
+Prediciton Cost of IDA* for day 51 is: 119.0
+Actual Cost of IDA* for day 51 is: 116.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5681.95
+Total actual cost (IDA*) until this day is: 5937.8499999999985
+
+
+Day 52:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 51 is: 0.001 seconds
+Prediciton Cost of UCS of day 51 is: 107.10000000000001
+Actual Cost of UCS of day 51 is: 112.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5789.05
+Total actual cost (UCS) until this day is: 6050.249999999998
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 52 is: 0.047 seconds
+Prediciton Cost of IDA* for day 52 is: 107.10000000000001
+Actual Cost of IDA* for day 52 is: 112.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5789.05
+Total actual cost (IDA*) until this day is: 6050.249999999998
+
+
+Day 53:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 52 is: 0.001 seconds
+Prediciton Cost of UCS of day 52 is: 108.4
+Actual Cost of UCS of day 52 is: 104.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 5897.45
+Total actual cost (UCS) until this day is: 6154.8499999999985
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 53 is: 0.063 seconds
+Prediciton Cost of IDA* for day 53 is: 108.4
+Actual Cost of IDA* for day 53 is: 104.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 5897.45
+Total actual cost (IDA*) until this day is: 6154.8499999999985
+
+
+Day 54:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 53 is: 0.001 seconds
+Prediciton Cost of UCS of day 53 is: 104.80000000000001
+Actual Cost of UCS of day 53 is: 104.80000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 6002.25
+Total actual cost (UCS) until this day is: 6259.649999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 54 is: 0.034 seconds
+Prediciton Cost of IDA* for day 54 is: 104.80000000000001
+Actual Cost of IDA* for day 54 is: 104.80000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 6002.25
+Total actual cost (IDA*) until this day is: 6259.649999999999
+
+
+Day 55:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 54 is: 0.001 seconds
+Prediciton Cost of UCS of day 54 is: 103.5
+Actual Cost of UCS of day 54 is: 106.75000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 6105.75
+Total actual cost (UCS) until this day is: 6366.399999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:46
+Execution time of IDA* for day 55 is: 0.039 seconds
+Prediciton Cost of IDA* for day 55 is: 103.5
+Actual Cost of IDA* for day 55 is: 106.75000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 6105.75
+Total actual cost (IDA*) until this day is: 6366.399999999999
+
+
+Day 56:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 55 is: 0.001 seconds
+Prediciton Cost of UCS of day 55 is: 104.60000000000001
+Actual Cost of UCS of day 55 is: 104.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 6210.35
+Total actual cost (UCS) until this day is: 6470.999999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 56 is: 0.017 seconds
+Prediciton Cost of IDA* for day 56 is: 104.60000000000001
+Actual Cost of IDA* for day 56 is: 104.60000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 6210.35
+Total actual cost (IDA*) until this day is: 6470.999999999999
+
+
+Day 57:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 56 is: 0.001 seconds
+Prediciton Cost of UCS of day 56 is: 119.6
+Actual Cost of UCS of day 56 is: 115.8
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:25.2, Road48e with estimated cost:5.4, Road63e with estimated cost:44.0, Road161e with estimated cost:30.0
+Total prediction cost (UCS) until this day is: 6329.950000000001
+Total actual cost (UCS) until this day is: 6586.799999999999
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:55
+Execution time of IDA* for day 57 is: 0.041 seconds
+Prediciton Cost of IDA* for day 57 is: 119.6
+Actual Cost of IDA* for day 57 is: 115.8
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:25.2, Road48e with estimated cost:5.4, Road63e with estimated cost:44.0, Road161e with estimated cost:30.0
+Total prediction cost (IDA*) until this day is: 6329.950000000001
+Total actual cost (IDA*) until this day is: 6586.799999999999
+
+
+Day 58:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 57 is: 0.001 seconds
+Prediciton Cost of UCS of day 57 is: 108.4
+Actual Cost of UCS of day 57 is: 106.1
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 6438.35
+Total actual cost (UCS) until this day is: 6692.9
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 58 is: 0.017 seconds
+Prediciton Cost of IDA* for day 58 is: 108.4
+Actual Cost of IDA* for day 58 is: 106.1
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 6438.35
+Total actual cost (IDA*) until this day is: 6692.9
+
+
+Day 59:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 58 is: 0.001 seconds
+Prediciton Cost of UCS of day 58 is: 111.65
+Actual Cost of UCS of day 58 is: 109.05000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 6550.0
+Total actual cost (UCS) until this day is: 6801.95
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 59 is: 0.016 seconds
+Prediciton Cost of IDA* for day 59 is: 111.65
+Actual Cost of IDA* for day 59 is: 109.05000000000001
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 6550.0
+Total actual cost (IDA*) until this day is: 6801.95
+
+
+Day 60:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 59 is: 0.001 seconds
+Prediciton Cost of UCS of day 59 is: 107.2
+Actual Cost of UCS of day 59 is: 117.5
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 6657.2
+Total actual cost (UCS) until this day is: 6919.45
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 60 is: 0.022 seconds
+Prediciton Cost of IDA* for day 60 is: 107.2
+Actual Cost of IDA* for day 60 is: 117.5
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 6657.2
+Total actual cost (IDA*) until this day is: 6919.45
+
+
+Day 61:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 60 is: 0.009000000000000001 seconds
+Prediciton Cost of UCS of day 60 is: 111.75
+Actual Cost of UCS of day 60 is: 126.05
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:27.0, Road146e with estimated cost:10.8, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 6768.95
+Total actual cost (UCS) until this day is: 7045.5
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 61 is: 0.043000000000000003 seconds
+Prediciton Cost of IDA* for day 61 is: 111.75
+Actual Cost of IDA* for day 61 is: 126.05
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road142e with estimated cost:27.0, Road146e with estimated cost:10.8, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 6768.95
+Total actual cost (IDA*) until this day is: 7045.5
+
+
+Day 62:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 61 is: 0.004 seconds
+Prediciton Cost of UCS of day 61 is: 118.7
+Actual Cost of UCS of day 61 is: 119.35
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:25.2, Road48e with estimated cost:7.5, Road63e with estimated cost:44.0, Road161e with estimated cost:27.0
+Total prediction cost (UCS) until this day is: 6887.65
+Total actual cost (UCS) until this day is: 7164.85
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:37
+Execution time of IDA* for day 62 is: 0.017 seconds
+Prediciton Cost of IDA* for day 62 is: 118.7
+Actual Cost of IDA* for day 62 is: 119.35
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:25.2, Road48e with estimated cost:7.5, Road63e with estimated cost:44.0, Road161e with estimated cost:27.0
+Total prediction cost (IDA*) until this day is: 6887.65
+Total actual cost (IDA*) until this day is: 7164.85
+
+
+Day 63:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 62 is: 0.001 seconds
+Prediciton Cost of UCS of day 62 is: 112.45
+Actual Cost of UCS of day 62 is: 108.65
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7000.099999999999
+Total actual cost (UCS) until this day is: 7273.5
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 63 is: 0.032 seconds
+Prediciton Cost of IDA* for day 63 is: 112.45
+Actual Cost of IDA* for day 63 is: 108.65
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7000.099999999999
+Total actual cost (IDA*) until this day is: 7273.5
+
+
+Day 64:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 63 is: 0.001 seconds
+Prediciton Cost of UCS of day 63 is: 109.4
+Actual Cost of UCS of day 63 is: 112.0
+Recommended Route: Road24e with estimated cost:9.9, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7109.499999999999
+Total actual cost (UCS) until this day is: 7385.5
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 64 is: 0.019 seconds
+Prediciton Cost of IDA* for day 64 is: 109.4
+Actual Cost of IDA* for day 64 is: 112.0
+Recommended Route: Road24e with estimated cost:9.9, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7109.499999999999
+Total actual cost (IDA*) until this day is: 7385.5
+
+
+Day 65:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 64 is: 0.0 seconds
+Prediciton Cost of UCS of day 64 is: 110.5
+Actual Cost of UCS of day 64 is: 110.5
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7219.999999999999
+Total actual cost (UCS) until this day is: 7496.0
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 65 is: 0.05 seconds
+Prediciton Cost of IDA* for day 65 is: 110.5
+Actual Cost of IDA* for day 65 is: 110.5
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:53.1, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7219.999999999999
+Total actual cost (IDA*) until this day is: 7496.0
+
+
+Day 66:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 65 is: 0.001 seconds
+Prediciton Cost of UCS of day 65 is: 104.60000000000001
+Actual Cost of UCS of day 65 is: 107.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7324.599999999999
+Total actual cost (UCS) until this day is: 7603.2
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 66 is: 0.053 seconds
+Prediciton Cost of IDA* for day 66 is: 104.60000000000001
+Actual Cost of IDA* for day 66 is: 107.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7324.599999999999
+Total actual cost (IDA*) until this day is: 7603.2
+
+
+Day 67:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 66 is: 0.005 seconds
+Prediciton Cost of UCS of day 66 is: 104.80000000000001
+Actual Cost of UCS of day 66 is: 114.35000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7429.4
+Total actual cost (UCS) until this day is: 7717.55
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 67 is: 0.044 seconds
+Prediciton Cost of IDA* for day 67 is: 104.80000000000001
+Actual Cost of IDA* for day 67 is: 114.35000000000001
+Recommended Route: Road24e with estimated cost:9.9, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7429.4
+Total actual cost (IDA*) until this day is: 7717.55
+
+
+Day 68:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 67 is: 0.002 seconds
+Prediciton Cost of UCS of day 67 is: 119.6
+Actual Cost of UCS of day 67 is: 141.0
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:25.2, Road48e with estimated cost:5.4, Road63e with estimated cost:44.0, Road161e with estimated cost:30.0
+Total prediction cost (UCS) until this day is: 7549.0
+Total actual cost (UCS) until this day is: 7858.55
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:55
+Execution time of IDA* for day 68 is: 0.09 seconds
+Prediciton Cost of IDA* for day 68 is: 119.6
+Actual Cost of IDA* for day 68 is: 141.0
+Recommended Route: Road6e with estimated cost:15.0, Road149e with estimated cost:25.2, Road48e with estimated cost:5.4, Road63e with estimated cost:44.0, Road161e with estimated cost:30.0
+Total prediction cost (IDA*) until this day is: 7549.0
+Total actual cost (IDA*) until this day is: 7858.55
+
+
+Day 69:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 68 is: 0.001 seconds
+Prediciton Cost of UCS of day 68 is: 119.0
+Actual Cost of UCS of day 68 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7668.0
+Total actual cost (UCS) until this day is: 7977.55
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 69 is: 0.021 seconds
+Prediciton Cost of IDA* for day 69 is: 119.0
+Actual Cost of IDA* for day 69 is: 119.0
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7668.0
+Total actual cost (IDA*) until this day is: 7977.55
+
+
+Day 70:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 69 is: 0.002 seconds
+Prediciton Cost of UCS of day 69 is: 116.4
+Actual Cost of UCS of day 69 is: 116.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7784.4
+Total actual cost (UCS) until this day is: 8093.95
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 70 is: 0.031 seconds
+Prediciton Cost of IDA* for day 70 is: 116.4
+Actual Cost of IDA* for day 70 is: 116.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7784.4
+Total actual cost (IDA*) until this day is: 8093.95
+
+
+Day 71:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 70 is: 0.002 seconds
+Prediciton Cost of UCS of day 70 is: 125.05
+Actual Cost of UCS of day 70 is: 111.75
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:47.5, Road142e with estimated cost:30.0, Road146e with estimated cost:10.8, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 7909.45
+Total actual cost (UCS) until this day is: 8205.7
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:43
+Execution time of IDA* for day 71 is: 0.045 seconds
+Prediciton Cost of IDA* for day 71 is: 125.05
+Actual Cost of IDA* for day 71 is: 111.75
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:47.5, Road142e with estimated cost:30.0, Road146e with estimated cost:10.8, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 7909.45
+Total actual cost (IDA*) until this day is: 8205.7
+
+
+Day 72:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 71 is: 0.001 seconds
+Prediciton Cost of UCS of day 71 is: 111.15
+Actual Cost of UCS of day 71 is: 126.4
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 8020.599999999999
+Total actual cost (UCS) until this day is: 8332.1
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 72 is: 0.041 seconds
+Prediciton Cost of IDA* for day 72 is: 111.15
+Actual Cost of IDA* for day 72 is: 126.4
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 8020.599999999999
+Total actual cost (IDA*) until this day is: 8332.1
+
+
+Day 73:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 72 is: 0.0 seconds
+Prediciton Cost of UCS of day 72 is: 108.7
+Actual Cost of UCS of day 72 is: 115.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:20.7
+Total prediction cost (UCS) until this day is: 8129.299999999999
+Total actual cost (UCS) until this day is: 8447.300000000001
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 73 is: 0.048 seconds
+Prediciton Cost of IDA* for day 73 is: 108.7
+Actual Cost of IDA* for day 73 is: 115.2
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:26.0, Road116e with estimated cost:20.7
+Total prediction cost (IDA*) until this day is: 8129.299999999999
+Total actual cost (IDA*) until this day is: 8447.300000000001
+
+
+Day 74:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 73 is: 0.002 seconds
+Prediciton Cost of UCS of day 73 is: 116.7
+Actual Cost of UCS of day 73 is: 123.2
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:20.7
+Total prediction cost (UCS) until this day is: 8246.0
+Total actual cost (UCS) until this day is: 8570.500000000002
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 74 is: 0.037 seconds
+Prediciton Cost of IDA* for day 74 is: 116.7
+Actual Cost of IDA* for day 74 is: 123.2
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:20.7
+Total prediction cost (IDA*) until this day is: 8246.0
+Total actual cost (IDA*) until this day is: 8570.500000000002
+
+
+Day 75:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 74 is: 0.001 seconds
+Prediciton Cost of UCS of day 74 is: 107.35000000000001
+Actual Cost of UCS of day 74 is: 113.10000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 8353.35
+Total actual cost (UCS) until this day is: 8683.600000000002
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 75 is: 0.063 seconds
+Prediciton Cost of IDA* for day 75 is: 107.35000000000001
+Actual Cost of IDA* for day 75 is: 113.10000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 8353.35
+Total actual cost (IDA*) until this day is: 8683.600000000002
+
+
+Day 76:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 75 is: 0.001 seconds
+Prediciton Cost of UCS of day 75 is: 108.4
+Actual Cost of UCS of day 75 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 8461.75
+Total actual cost (UCS) until this day is: 8792.000000000002
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 76 is: 0.027 seconds
+Prediciton Cost of IDA* for day 76 is: 108.4
+Actual Cost of IDA* for day 76 is: 108.4
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 8461.75
+Total actual cost (IDA*) until this day is: 8792.000000000002
+
+
+Day 77:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 76 is: 0.001 seconds
+Prediciton Cost of UCS of day 76 is: 114.15
+Actual Cost of UCS of day 76 is: 126.25
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 8575.9
+Total actual cost (UCS) until this day is: 8918.250000000002
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 77 is: 0.023 seconds
+Prediciton Cost of IDA* for day 77 is: 114.15
+Actual Cost of IDA* for day 77 is: 126.25
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 8575.9
+Total actual cost (IDA*) until this day is: 8918.250000000002
+
+
+Day 78:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 77 is: 0.0 seconds
+Prediciton Cost of UCS of day 77 is: 114.15
+Actual Cost of UCS of day 77 is: 116.75
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:28.75
+Total prediction cost (UCS) until this day is: 8690.05
+Total actual cost (UCS) until this day is: 9035.000000000002
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 78 is: 0.043000000000000003 seconds
+Prediciton Cost of IDA* for day 78 is: 114.15
+Actual Cost of IDA* for day 78 is: 116.75
+Recommended Route: Road24e with estimated cost:11.0, Road156e with estimated cost:38.0, Road138e with estimated cost:13.0, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:28.75
+Total prediction cost (IDA*) until this day is: 8690.05
+Total actual cost (IDA*) until this day is: 9035.000000000002
+
+
+Day 79:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 78 is: 0.001 seconds
+Prediciton Cost of UCS of day 78 is: 119.0
+Actual Cost of UCS of day 78 is: 124.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 8809.05
+Total actual cost (UCS) until this day is: 9159.400000000001
+
+Iterative Deepening A*
+Number of nodes expanded:4
+Number of nodes in fringe:30
+Execution time of IDA* for day 79 is: 0.019 seconds
+Prediciton Cost of IDA* for day 79 is: 119.0
+Actual Cost of IDA* for day 79 is: 124.4
+Recommended Route: Road24e with estimated cost:11.0, Road155e with estimated cost:59.0, Road143e with estimated cost:26.0, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 8809.05
+Total actual cost (IDA*) until this day is: 9159.400000000001
+
+
+Day 80:
+Uniform Cost Search
+Number of nodes expanded:38
+Number of nodes in fringe:6
+Execution time of UCS for day 79 is: 0.001 seconds
+Prediciton Cost of UCS of day 79 is: 106.05000000000001
+Actual Cost of UCS of day 79 is: 106.05000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (UCS) until this day is: 8915.099999999999
+Total actual cost (UCS) until this day is: 9265.45
+
+Iterative Deepening A*
+Number of nodes expanded:5
+Number of nodes in fringe:34
+Execution time of IDA* for day 80 is: 0.033 seconds
+Prediciton Cost of IDA* for day 80 is: 106.05000000000001
+Actual Cost of IDA* for day 80 is: 106.05000000000001
+Recommended Route: Road24e with estimated cost:13.75, Road156e with estimated cost:34.2, Road138e with estimated cost:11.700000000000001, Road143e with estimated cost:23.400000000000002, Road116e with estimated cost:23.0
+Total prediction cost (IDA*) until this day is: 8915.099999999999
+Total actual cost (IDA*) until this day is: 9265.45
+
+
+Average Actual Cost for 80 days:
+
+UCS: The average cost per day, for 1 month (80 days) is: 115.81812500000001
+IDA*: The average cost per day, for 1 month (80 days) is: 115.81812500000001
+
+Average Time needed:
+
+UCS: The Average time needed per day, for 1 month(80 days) is: 0.003612500000000002 seconds
+IDA*: The Average time needed per day, for 1 month(80 days) is: 0.05646250000000001 seconds
